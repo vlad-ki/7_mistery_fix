@@ -2,8 +2,9 @@
 # How to Use
 
 ```python
-	from quadraticquadratic_equation import get_roots
-	get_roots(a, b , c)
+	>>> from quadratic_equation import get_roots
+	>>> get_roots(1, 2, -3)
+	(-3.0, 1.0)
 ```
 # How to Launch Tests
 
