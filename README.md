@@ -1,11 +1,10 @@
 # Quadratic Equations Solver
-
-[TODO. There will be project description]
-
 # How to Use
 
-[TODO]
-
+```python
+	from quadraticquadratic_equation import get_roots
+	get_roots(a, b , c)
+```
 # How to Launch Tests
 
 ```bash
@@ -13,5 +12,4 @@ python tests.py
 ```
 
 # Project Goals
-
-The code is written for educational purposes. Training course for web-developers - [DEVMAN.org](https://devman.org)
+This module is support to quadratic equations solver
